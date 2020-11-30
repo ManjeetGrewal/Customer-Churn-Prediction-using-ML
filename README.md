@@ -10,7 +10,6 @@ Python 3
 Jupyter
 Pandas
 Numpy
-Math
 Seaborn
 Matplotlib
 Scikit-Learn
