@@ -15,3 +15,12 @@ Matplotlib
 Scikit-Learn
 Scipy
 ```
+## Run Instructions:
+I ran all the experiments in the notebooks using Google Collaboratory.
+
+## Performance:
+Algorithm | Logistic Regression | Random Forest | Light GBM | XGBoost |
+--- | --- | --- | --- |--- |
+ROC-AUC | 85.49 | 86.54 | 86.15 | 85.53 |
+
+The Random Forest outstand other ML algorithms performed in terms of ROC-AUC metric.
